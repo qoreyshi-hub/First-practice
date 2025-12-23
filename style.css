@@ -171,7 +171,9 @@ body{
     }
     .image{
         max-width: 100%;
+        background-size: cover;
     }
 }
+
 
 
