@@ -207,10 +207,17 @@ body{
 
     }
     .icon{
-        line-height: 41px;
-        margin-left: -0.08rem;
+        line-height: 51px;
+        margin-left: 0.4rem;
     }
     .icon2{
-        margin-left: -0.3rem;
+        line-height: 51px;
+        margin-left: 0.4rem;
     }
+    .icon3{
+        line-height: 55px;
+        margin-left: 0.1rem;
+        transform: scale(1.3);
+    }
+
 }
