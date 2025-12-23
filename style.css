@@ -169,4 +169,8 @@ body{
         margin: 1rem 0;
         flex-basis: 100%;
     }
+    .image{
+        flex-basis: 100%;
+    }
 }
+
